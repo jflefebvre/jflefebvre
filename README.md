@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jflefebvre
 - I'm living in Brussels in the magnificent Kingdom of Belgium
-- I'm a freelance PHP web developer (Laravel/Wordpress) https://e-volution.be
+- I'm a freelance PHP web developer (Laravel/NuxtJS/Wordpress) https://e-volution.be
 - 👀 I’m interested in biohacking, travel, slow living, minimalism
 - 🌱 I’m currently learning TypeScript, docker, Ethereum and Smart Contracts
 - 💞️ I’m looking to collaborate on ...
